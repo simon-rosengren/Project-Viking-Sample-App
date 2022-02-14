@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/ARCore Extensions/1.29.0/Persistent Cloud Anchor Sample/Scenes/PersistentCloudAnchors.unity
+    guid: a1cbde3cab63248f4bbf8d8ad6586754
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 56e6c9f8ae97fc54f84f24aa4f540763, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 7fd5d6231c7ed294c97ae676721d2f34, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b93c113f2def74f4faae59df08716814, type: 2}
